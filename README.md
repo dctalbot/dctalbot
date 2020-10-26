@@ -8,4 +8,4 @@
 - 🌱 I'm learning golang and reason ml
 - 🎧 I volunteer with [wcbn](http://floyd.wcbn.org:8000/wcbn-hd.mp3) and [kfai](http://www.kfai.org/sites/default/stream/jplayer.html)!
 
-![stats](https://github-readme-stats.vercel.app/api?username=dctalbot&show_icons=true&theme=nord&hide_rank=true&custom_title=GitHub%20Stats)
+![stats](https://github-readme-stats.vercel.app/api?username=dctalbot&show_icons=true&theme=nord&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true)
