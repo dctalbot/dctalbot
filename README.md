@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🍎 [I'm a mac](https://www.youtube.com/watch?v=qfv6Ah_MVJU)
+- 🍎 [I'm a mac](https://www.youtube.com/watch?v=0eEG5LVXdKo)
 - 🥞 I'm a full-stack engineer in the Developer Experience space
 - 🛠 I do open source on the [goalert](https://github.com/target/goalert) project for my day job
 - 🤓 I'm fluent in Typescript, React, SQL, C++, and Python
