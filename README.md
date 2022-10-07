@@ -14,12 +14,15 @@
   <h4>Videos</h4>
 
   - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO">JS Code Golf</a> - Martin Kleppe
+  - <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">Go Proverbs</a> - Rob Pike
+ 
   
   <h4>Blogs</h4>
 
   - <a href="https://daverupert.com/2022/08/web-is-a-harsh-manager/">The web is a harsh manager</a> - Dave Ruppert
   - <a href="http://www.paulgraham.com/makersschedule.html">The maker / manager schedule</a> - Paul G
- 
+  - <a href="https://lbruhmuller.medium.com/the-staff-engineer-statute-bff4f0cf1810">Staff Engineer Statute</a> - Lawrence Bruhmuller
+
  
   
 </details> 
