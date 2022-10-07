@@ -18,5 +18,8 @@
   <h4>Blogs</h4>
 
   - <a href="https://daverupert.com/2022/08/web-is-a-harsh-manager/">The web is a harsh manager</a> - Dave Ruppert
+  - <a href="http://www.paulgraham.com/makersschedule.html">The maker / manager schedule</a> - Paul G
+ 
+ 
   
 </details> 
