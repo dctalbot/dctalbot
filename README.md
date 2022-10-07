@@ -11,7 +11,7 @@
 
  <details>
   <summary>Lists</summary>
-  <h3>Videos</h3>
+  <h4>Videos</h3>
 
   - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO">JS Code Golf w/ Martin Kleppe</a>
 </details> 
