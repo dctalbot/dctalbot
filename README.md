@@ -13,5 +13,10 @@
   <summary>Lists</summary>
   <h4>Videos</h4>
 
-  - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO">JS Code Golf w/ Martin Kleppe</a>
+  - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO">JS Code Golf</a> - Martin Kleppe
+  
+  <h4>Blogs</h4>
+
+  - <a href="https://daverupert.com/2022/08/web-is-a-harsh-manager/">The web is a harsh manager</a> - Dave Ruppert
+  
 </details> 
