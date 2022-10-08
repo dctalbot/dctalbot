@@ -22,7 +22,10 @@
   - <a href="https://daverupert.com/2022/08/web-is-a-harsh-manager/">The web is a harsh manager</a> - Dave Ruppert
   - <a href="http://www.paulgraham.com/makersschedule.html">The maker / manager schedule</a> - Paul G
   - <a href="https://lbruhmuller.medium.com/the-staff-engineer-statute-bff4f0cf1810">Staff Engineer Statute</a> - Lawrence Bruhmuller
- - <a href="https://macwright.com/2020/08/22/clean-starts-for-the-web.html">A clean start for the web</a> - Tom MacWright
+ 
+  <h5>SPA architectures</h5>
+  - <a href="https://macwright.com/2020/05/10/spa-fatigue.html">A clean start for the web</a> - Tom MacWright
+  - <a href="https://macwright.com/2020/08/22/clean-starts-for-the-web.html">A clean start for the web</a> - Tom MacWright
 
  
   
