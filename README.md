@@ -27,6 +27,7 @@
  
   - <a href="https://macwright.com/2020/05/10/spa-fatigue.html">A clean start for the web</a> - Tom MacWright
   - <a href="https://macwright.com/2020/08/22/clean-starts-for-the-web.html">A clean start for the web</a> - Tom MacWright
+  - <a href="https://macwright.com/2020/10/28/if-not-spas.html">If not SPAs</a> - Tom MacWright
 
  
   
