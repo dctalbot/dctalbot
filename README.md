@@ -13,8 +13,9 @@
   <summary>Lists</summary>
   <h4>Videos</h4>
 
-  - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO">JS Code Golf</a> - Martin Kleppe
-  - <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">Go Proverbs</a> - Rob Pike
+ - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw">JS Code Golf</a> - Martin Kleppe
+ - <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">Go Proverbs</a> - Rob Pike
+ - <a href="https://www.youtube.com/watch?v=a9xAKttWgP4">Game of Life in APL</a> - John Morley Scholes
  
   
   <h4>Blogs</h4>
