@@ -16,6 +16,7 @@
  - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw">JS Code Golf</a> - Martin Kleppe
  - <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">Go Proverbs</a> - Rob Pike
  - <a href="https://www.youtube.com/watch?v=a9xAKttWgP4">APL Game of Life</a> - John Morley Scholes
+ - <a href="https://www.youtube.com/watch?v=PzEox3szeRc&ab_channel=GOTOConferences">"Good Enough" Architecture</a> - Stefan Tilkov
  
   
   <h4>Blogs</h4>
