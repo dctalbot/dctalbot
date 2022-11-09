@@ -30,6 +30,10 @@
   - <a href="https://macwright.com/2020/05/10/spa-fatigue.html">SPA Fatigue</a> - Tom MacWright
   - <a href="https://macwright.com/2020/08/22/clean-starts-for-the-web.html">A clean start for the web</a> - Tom MacWright
   - <a href="https://macwright.com/2020/10/28/if-not-spas.html">If not SPAs</a> - Tom MacWright
+ 
+  <h4>Papers</h4>
+ 
+  - [Exploring Norms in Agile Software Teams](https://www.researchgate.net/publication/311264520_Exploring_Norms_in_Agile_Software_Teams)
 
  
   
