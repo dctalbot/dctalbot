@@ -24,6 +24,9 @@
   - <a href="https://daverupert.com/2022/08/web-is-a-harsh-manager/">The web is a harsh manager</a> - Dave Ruppert
   - <a href="http://www.paulgraham.com/makersschedule.html">The maker / manager schedule</a> - Paul G
   - <a href="https://lbruhmuller.medium.com/the-staff-engineer-statute-bff4f0cf1810">Staff Engineer Statute</a> - Lawrence Bruhmuller
+  - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3</a> - Moxie Marlinspike
+
+
  
   <h5>SPA architectures</h5>
  
