@@ -17,6 +17,7 @@
  - <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">Go Proverbs</a> - Rob Pike
  - <a href="https://www.youtube.com/watch?v=a9xAKttWgP4">APL Game of Life</a> - John Morley Scholes
  - <a href="https://www.youtube.com/watch?v=PzEox3szeRc&ab_channel=GOTOConferences">"Good Enough" Architecture</a> - Stefan Tilkov
+ - <a href="https://www.hytradboi.com/2022/uis-are-streaming-dags">UIs are streaming DAGs</a> - Dustin Getz
  
   
   <h4>Blogs</h4>
