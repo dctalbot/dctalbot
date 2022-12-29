@@ -37,7 +37,7 @@
  
   <h4>Papers</h4>
  
-  - [Google's Authz Architecture (Zanzibar)](https://research.google/pubs/pub48190/)
+  - [Google's Authz Architecture (Zanzibar)](https://research.google/pubs/pub48190/) and companion [video](https://www.facebook.com/atscaleevents/videos/scale-2019-zanzibar-googles-consistent-global-authorization-system/524366141717632/)
   - [Exploring Norms in Agile Software Teams](https://www.researchgate.net/publication/311264520_Exploring_Norms_in_Agile_Software_Teams)
 
  
