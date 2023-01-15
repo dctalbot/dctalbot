@@ -26,6 +26,7 @@
   - <a href="http://www.paulgraham.com/makersschedule.html">The maker / manager schedule</a> - Paul G
   - <a href="https://lbruhmuller.medium.com/the-staff-engineer-statute-bff4f0cf1810">Staff Engineer Statute</a> - Lawrence Bruhmuller
   - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3</a> - Moxie Marlinspike
+  - <a href="https://www.evanmiller.org/mathematical-hacker.html">The mathematical hacker</a> - Evan Miller
 
 
  
