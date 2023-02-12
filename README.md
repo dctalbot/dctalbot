@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🍎 [I'm a mac](https://www.youtube.com/watch?v=0eEG5LVXdKo)
-- 🥞 I'm a full-stack engineer in the Developer Experience space
-- 💼 I do open source on the [goalert](https://github.com/target/goalert) project for my day job
+- 🥞 I'm a full-stack engineer working on developer experience
+- 💼 I helped build [goalert](https://github.com/target/goalert) and [GX](https://github.com/great-expectations/great_expectations)
 - 🤓 I'm fluent in Typescript, SQL, C++, and Python
 - 🙂 I can also get by with Go, Java, Kotlin, Bash, anything Javascripty
-- 🛠 I often use React, graphQL, Docker, Terraform, GCP, K8s, Django, Flask, Mongo
-- 🌱 I'm learning about Web Assembly and Reason ML
+- 🛠 I often use React, graphQL, Docker, Terraform, K8s, AWS, GCP
+- 🌱 I'm learning about Rust, Web Assembly, and next-gen frontend frameworks
 - 🎧 I volunteer with [WCBN](http://floyd.wcbn.org:8000/wcbn-hd.mp3) and [KFAI](http://www.kfai.org/sites/default/stream/jplayer.html)!
 
  <details>
@@ -18,6 +17,8 @@
  - <a href="https://www.youtube.com/watch?v=a9xAKttWgP4">APL Game of Life</a> - John Morley Scholes
  - <a href="https://www.youtube.com/watch?v=PzEox3szeRc&ab_channel=GOTOConferences">"Good Enough" Architecture</a> - Stefan Tilkov
  - <a href="https://www.hytradboi.com/2022/uis-are-streaming-dags">UIs are streaming DAGs</a> - Dustin Getz
+ - <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY">React: Rethinking best practices</a> - Pete Hunt
+
  
   
   <h4>Blogs</h4>
