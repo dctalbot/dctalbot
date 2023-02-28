@@ -18,6 +18,7 @@
  - <a href="https://www.youtube.com/watch?v=PzEox3szeRc&ab_channel=GOTOConferences">"Good Enough" Architecture</a> - Stefan Tilkov
  - <a href="https://www.hytradboi.com/2022/uis-are-streaming-dags">UIs are streaming DAGs</a> - Dustin Getz
  - <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY">React: Rethinking best practices</a> - Pete Hunt
+ - <a href="https://www.youtube.com/watch?v=haejb5rzKsM">Monoliths vs Microservices is Missing the Point</a> - Matthew Skelton and Manuel Pais
 
  
   
