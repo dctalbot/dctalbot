@@ -19,6 +19,8 @@
  - <a href="https://www.hytradboi.com/2022/uis-are-streaming-dags">UIs are streaming DAGs</a> - Dustin Getz
  - <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY">React: Rethinking best practices</a> - Pete Hunt
  - <a href="https://www.youtube.com/watch?v=haejb5rzKsM">Monoliths vs Microservices is Missing the Point</a> - Matthew Skelton and Manuel Pais
+ - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a> - Raymond Hettinger
+   
 
  
   
