@@ -2,8 +2,8 @@
 
 - 🥞 I'm a full-stack engineer working on developer experience
 - 💼 I helped build [goalert](https://github.com/target/goalert) and [GX](https://github.com/great-expectations/great_expectations)
-- 🤓 I'm fluent in Typescript, SQL, C++, and Python
-- 🙂 I can also get by with Go, Java, Kotlin, Bash, anything Javascripty
+- 🤓 I'm fluent in Typescript, Python, Go, SQL, and HTML/CSS/JS
+- 🙂 I can also get by with C++, Java, Kotlin, Bash
 - 🛠 I often use React, graphQL, Docker, Terraform, K8s, AWS, GCP
 - 🌱 I'm learning about Rust, Web Assembly, and next-gen frontend frameworks
 - 🎧 I volunteer with [WCBN](http://floyd.wcbn.org:8000/wcbn-hd.mp3) and [KFAI](http://www.kfai.org/sites/default/stream/jplayer.html)!
@@ -20,6 +20,7 @@
  - <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY">React: Rethinking best practices</a> - Pete Hunt
  - <a href="https://www.youtube.com/watch?v=haejb5rzKsM">Monoliths vs Microservices is Missing the Point</a> - Matthew Skelton and Manuel Pais
  - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a> - Raymond Hettinger
+ - <a href="https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops/oembed">YOU’VE JUST BEEN FUCKED BY PSYOPS</a> - Trevor Paglen
    
 
  
