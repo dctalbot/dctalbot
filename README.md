@@ -33,6 +33,7 @@
   - <a href="https://www.evanmiller.org/mathematical-hacker.html">The mathematical hacker</a> - Evan Miller
   - <a href="https://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/">The future of JS MVC's</a> - David Nolen
   - <a href="http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail">Reality has a Surprising Amount of Detail</a> - John Salvatier
+  - <a href="https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html">4 billion if statements</a> - Andreas Karlsson
 
  
   <h5>SPA architectures</h5>
