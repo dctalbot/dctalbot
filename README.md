@@ -17,9 +17,7 @@
  - <a href="https://www.hytradboi.com/2022/uis-are-streaming-dags">UIs are streaming DAGs</a> - Dustin Getz
  - <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY">React: Rethinking best practices</a> - Pete Hunt
  - <a href="https://www.youtube.com/watch?v=haejb5rzKsM">Monoliths vs Microservices is Missing the Point</a> - Matthew Skelton and Manuel Pais
- - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a> - Raymond Hettinger
- - <a href="https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops/oembed">YOU’VE JUST BEEN FUCKED BY PSYOPS</a> - Trevor Paglen
-   
+ - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a> - Raymond Hettinger   
 
  
   
