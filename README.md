@@ -33,14 +33,9 @@
   - <a href="http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail">Reality has a Surprising Amount of Detail</a> - John Salvatier
   - <a href="https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html">4 billion if statements</a> - Andreas Karlsson
   - <a href="https://bvisness.me/you-cant/">You can’t do that because I hate you.</a> - Ben Visness
-
- 
-  <h5>SPA architectures</h5>
- 
   - <a href="https://macwright.com/2020/05/10/spa-fatigue.html">SPA Fatigue</a> - Tom MacWright
-  - <a href="https://macwright.com/2020/08/22/clean-starts-for-the-web.html">A clean start for the web</a> - Tom MacWright
   - <a href="https://macwright.com/2020/10/28/if-not-spas.html">If not SPAs</a> - Tom MacWright
- - <a href="https://almanac.httparchive.org/en/2022/javascript">JS almanac 2022 </a> - Jeremy Wagner
+  - <a href="https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7">Predictive CPU Isolation of containers</a> - Netflix
  
   <h4>Papers</h4>
  
