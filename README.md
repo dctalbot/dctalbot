@@ -23,19 +23,20 @@
   
   <h4>Blogs</h4>
 
-  - <a href="https://daverupert.com/2022/08/web-is-a-harsh-manager/">The web is a harsh manager</a> - Dave Ruppert
-  - <a href="http://www.paulgraham.com/makersschedule.html">The maker / manager schedule</a> - Paul G
-  - <a href="https://naggum.no/lugm-time.html">The Long, Painful History of Time</a> - Erik Naggum
-  - <a href="https://lbruhmuller.medium.com/the-staff-engineer-statute-bff4f0cf1810">Staff Engineer Statute</a> - Lawrence Bruhmuller
-  - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3</a> - Moxie Marlinspike
-  - <a href="https://www.evanmiller.org/mathematical-hacker.html">The mathematical hacker</a> - Evan Miller
-  - <a href="https://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/">The future of JS MVC's</a> - David Nolen
-  - <a href="http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail">Reality has a Surprising Amount of Detail</a> - John Salvatier
-  - <a href="https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html">4 billion if statements</a> - Andreas Karlsson
-  - <a href="https://bvisness.me/you-cant/">You can’t do that because I hate you.</a> - Ben Visness
-  - <a href="https://macwright.com/2020/05/10/spa-fatigue.html">SPA Fatigue</a> - Tom MacWright
-  - <a href="https://macwright.com/2020/10/28/if-not-spas.html">If not SPAs</a> - Tom MacWright
-  - <a href="https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7">Predictive CPU Isolation of containers</a> - Netflix
+  - <a href="https://daverupert.com/2022/08/web-is-a-harsh-manager/">The web is a harsh manager</a>
+  - <a href="http://www.paulgraham.com/makersschedule.html">The maker / manager schedule</a>
+  - <a href="https://naggum.no/lugm-time.html">The Long, Painful History of Time</a>
+  - <a href="https://lbruhmuller.medium.com/the-staff-engineer-statute-bff4f0cf1810">Staff Engineer Statute</a>
+  - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3</a>
+  - <a href="https://www.evanmiller.org/mathematical-hacker.html">The mathematical hacker</a>
+  - <a href="https://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/">The future of JS MVC's</a>
+  - <a href="http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail">Reality has a Surprising Amount of Detail</a>
+  - <a href="https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html">4 billion if statements</a>
+  - <a href="https://bvisness.me/you-cant/">You can’t do that because I hate you.</a>
+  - <a href="https://macwright.com/2020/05/10/spa-fatigue.html">SPA Fatigue</a>
+  - <a href="https://macwright.com/2020/10/28/if-not-spas.html">If not SPAs</a>
+  - <a href="https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7">Predictive CPU Isolation of containers</a>
+  - <a href="https://ln.hixie.ch/?start=1674863881&order=-1&count=1">Deciding which bugs to fix</a>
  
   <h4>Papers</h4>
  
