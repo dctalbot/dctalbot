@@ -41,7 +41,6 @@
   <h4>Papers</h4>
  
   - [Zanzibar](https://research.google/pubs/pub48190/) (Google)
-  - [Exploring Norms in Agile Software Teams](https://www.researchgate.net/publication/311264520_Exploring_Norms_in_Agile_Software_Teams)
 
  
   
