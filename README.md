@@ -13,12 +13,13 @@
  - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw">JS Code Golf</a>
  - <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">Go Proverbs</a>
  - <a href="https://www.youtube.com/watch?v=a9xAKttWgP4">APL Game of Life</a>
- - <a href="https://www.youtube.com/watch?v=PzEox3szeRc&ab_channel=GOTOConferences">"Good Enough" Architecture</a>
+ - <a href="https://www.youtube.com/watch?v=PzEox3szeRc">"Good Enough" Architecture</a>
  - <a href="https://www.hytradboi.com/2022/uis-are-streaming-dags">UIs are streaming DAGs</a>
+ - <a href="https://www.youtube.com/watch?v=KJcd9IckJj8">WANIX: Experimental Local-first Dev Environment</a>
+ - <a href="https://www.youtube.com/watch?v=aOWIJ4Mgb2k">Bridging React Native Back to its Roots</a>
  - <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY">React: Rethinking best practices</a>
  - <a href="https://www.youtube.com/watch?v=haejb5rzKsM">Monoliths vs Microservices is Missing the Point</a>
- - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a>   
-
+ - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a>
  
   
   <h4>Blogs</h4>
