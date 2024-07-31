@@ -27,6 +27,7 @@
 
   - <a href="https://daverupert.com/2022/08/web-is-a-harsh-manager/">The web is a harsh manager</a>
   - <a href="http://www.paulgraham.com/makersschedule.html">The maker / manager schedule</a>
+  - <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">Reflections on Trusting Trust</a>
   - <a href="https://naggum.no/lugm-time.html">The Long, Painful History of Time</a>
   - <a href="https://lbruhmuller.medium.com/the-staff-engineer-statute-bff4f0cf1810">Staff Engineer Statute</a>
   - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3</a>
