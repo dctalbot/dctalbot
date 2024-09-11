@@ -21,6 +21,7 @@
  - <a href="https://www.youtube.com/watch?v=haejb5rzKsM">Monoliths vs Microservices is Missing the Point</a>
  - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a>
  - <a href="https://www.youtube.com/watch?v=KClAPipnKqw">Technical leadership and glue work</a>
+ - <a href="https://www.youtube.com/watch?v=x2EOOJg8FkA">Performance Excuses Debunked</a>
  
   
   <h4>Blogs</h4>
