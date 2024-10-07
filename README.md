@@ -40,6 +40,7 @@
   - <a href="https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7">Predictive CPU Isolation of containers</a>
   - <a href="https://ln.hixie.ch/?start=1674863881&order=-1&count=1">Deciding which bugs to fix</a>
   - <a href="https://norvig.com/21-days.html">Teach Yourself Programming in Ten Years</a>
+  - <a href="https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/">Do Nothing Scripts</a>
  
   <h4>Papers</h4>
 
