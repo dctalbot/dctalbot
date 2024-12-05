@@ -41,6 +41,7 @@
   - <a href="https://ln.hixie.ch/?start=1674863881&order=-1&count=1">Deciding which bugs to fix</a>
   - <a href="https://norvig.com/21-days.html">Teach Yourself Programming in Ten Years</a>
   - <a href="https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/">Do Nothing Scripts</a>
+  - <a href="https://www.philipzucker.com/sql_graph_csp/">SQL, Homomorphisms and Constraint Satisfaction Problems</a>
  
   <h4>Papers</h4>
 
