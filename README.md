@@ -42,6 +42,7 @@
   - <a href="https://norvig.com/21-days.html">Teach Yourself Programming in Ten Years</a>
   - <a href="https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/">Do Nothing Scripts</a>
   - <a href="https://www.philipzucker.com/sql_graph_csp/">SQL, Homomorphisms and Constraint Satisfaction Problems</a>
+  - <a href="https://berthub.eu/articles/posts/on-long-term-software-development/">On Long Term Software Development</a>
  
   <h4>Papers</h4>
 
