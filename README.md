@@ -22,6 +22,7 @@
  - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a>
  - <a href="https://www.youtube.com/watch?v=KClAPipnKqw">Technical leadership and glue work</a>
  - <a href="https://www.youtube.com/watch?v=x2EOOJg8FkA">Performance Excuses Debunked</a>
+ - <a href="https://www.youtube.com/watch?v=Yqi9Gwt-OEA">Multiple WIP vs One Piece Flow</a>
  
   
   <h4>Blogs</h4>
