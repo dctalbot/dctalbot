@@ -24,6 +24,7 @@
  - <a href="https://youtu.be/x2EOOJg8FkA">Performance Excuses Debunked</a>
  - <a href="https://youtu.be/Yqi9Gwt-OEA">Multiple WIP vs One Piece Flow</a>
  - <a href="https://youtu.be/8pTEmbeENF4">The future of programming</a>
+ - <a href="https://www.youtube.com/live/esCSpbDPJik">The Future of U.S. AI Leadership</a>
  
   
   <h4>Blogs</h4>
