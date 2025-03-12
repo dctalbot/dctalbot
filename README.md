@@ -10,19 +10,20 @@
   <summary>Lists</summary>
   <h4>Videos</h4>
 
- - <a href="https://www.youtube.com/watch?v=SeAbvjM5Fhw">JS Code Golf</a>
- - <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">Go Proverbs</a>
- - <a href="https://www.youtube.com/watch?v=a9xAKttWgP4">APL Game of Life</a>
- - <a href="https://www.youtube.com/watch?v=PzEox3szeRc">"Good Enough" Architecture</a>
+ - <a href="https://youtu.be/SeAbvjM5Fhw">JS Code Golf</a>
+ - <a href="https://youtu.be/PAAkCSZUG1c">Go Proverbs</a>
+ - <a href="https://youtu.be/a9xAKttWgP4">APL Game of Life</a>
+ - <a href="https://youtu.be/PzEox3szeRc">"Good Enough" Architecture</a>
  - <a href="https://www.hytradboi.com/2022/uis-are-streaming-dags">UIs are streaming DAGs</a>
- - <a href="https://www.youtube.com/watch?v=KJcd9IckJj8">WANIX: Experimental Local-first Dev Environment</a>
- - <a href="https://www.youtube.com/watch?v=aOWIJ4Mgb2k">Bridging React Native Back to its Roots</a>
- - <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY">React: Rethinking best practices</a>
- - <a href="https://www.youtube.com/watch?v=haejb5rzKsM">Monoliths vs Microservices is Missing the Point</a>
- - <a href="https://www.youtube.com/watch?v=S_ipdVNSFlo">Python's abstract base classes</a>
- - <a href="https://www.youtube.com/watch?v=KClAPipnKqw">Technical leadership and glue work</a>
- - <a href="https://www.youtube.com/watch?v=x2EOOJg8FkA">Performance Excuses Debunked</a>
- - <a href="https://www.youtube.com/watch?v=Yqi9Gwt-OEA">Multiple WIP vs One Piece Flow</a>
+ - <a href="https://youtu.be/KJcd9IckJj8">WANIX: Experimental Local-first Dev Environment</a>
+ - <a href="https://youtu.be/aOWIJ4Mgb2k">Bridging React Native Back to its Roots</a>
+ - <a href="https://youtu.be/x7cQ3mrcKaY">React: Rethinking best practices</a>
+ - <a href="https://youtu.be/haejb5rzKsM">Monoliths vs Microservices is Missing the Point</a>
+ - <a href="https://youtu.be/S_ipdVNSFlo">Python's abstract base classes</a>
+ - <a href="https://youtu.be/KClAPipnKqw">Technical leadership and glue work</a>
+ - <a href="https://youtu.be/x2EOOJg8FkA">Performance Excuses Debunked</a>
+ - <a href="https://youtu.be/Yqi9Gwt-OEA">Multiple WIP vs One Piece Flow</a>
+ - <a href="https://youtu.be/8pTEmbeENF4">The future of programming</a>
  
   
   <h4>Blogs</h4>
