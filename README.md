@@ -3,7 +3,6 @@
 - 🥞 I'm a full-stack engineer working on developer experience
 - 💼 I helped build open source projects like [goalert](https://github.com/target/goalert) and [GX](https://github.com/great-expectations/great_expectations)
 - 🧠 I'm interested in world history, economics, taking new projects from 0 to 1, understanding how society shapes technology, and understanding how technology shapes us
-- ✏️ I write a [blog](https://dctalbot.nyc/)
 - 🎧 I volunteer with [WCBN](http://floyd.wcbn.org:8000/wcbn-hd.mp3) and [KFAI](http://www.kfai.org/sites/default/stream/jplayer.html)!
 
  <details>
