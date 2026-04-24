@@ -51,6 +51,7 @@
 
   - <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">Reflections on Trusting Trust</a>
   - [Zanzibar](https://research.google/pubs/pub48190/) (Google)
+  - [Percolator](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Peng.pdf) (Google)
 
  
   
